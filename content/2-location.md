@@ -33,11 +33,11 @@ You are responsible for making your own hotel reservations.
 
 #### Group Rates
 
-A block of rooms will be established for Workshop participants. If you wish to take advantage of this block, please reserve your space by TBD.  
+A block of rooms has been established for Workshop participants. These rooms are available on a first-come, first-served basis. To secure your space, we highly recommend reserving your room as soon as possible.  
 
 Eaton Corp Room Block  
 Last Day to Book: TBD  
-Denver Marriott West - 135 USD per night  
+Denver Marriott West - 178 USD per night  
 
 [Book your group rate for Eaton Corp Room Block](https://www.marriott.com/event-reservations/reservation-link.mi?id=1679329669852&key=GRP&app=resvlink)
 
