@@ -12,8 +12,6 @@ Day 1 of the workshop will be held at National Renewable Energy Labortory in Gol
 16000 Denver W Pkwy  
 Golden, CO 80401
 
-<br>
-
 Day 2 of the workshop will be held at Eaton's Denver office. 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20637.418625531096!2d-105.160492611604!3d39.74480280787797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876b8500517fba05%3A0x88d94cebde657aee!2sEATON!5e0!3m2!1sen!2sus!4v1724352693200!5m2!1sen!2sus&z=20" width="800" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -21,7 +19,6 @@ Day 2 of the workshop will be held at Eaton's Denver office.
 14142 Denver W Pkwy #345  
 Lakewood, CO 80401  
 
-<br>
 
 ### Summit Hotel
 
