@@ -26,5 +26,5 @@ Day 2 will start with a tour to the NREL Flatiron campus, followed by discussion
 <!-- Information and detailed descriptions for each specific panel can be found [here](https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-eaton.pdf).
 <br> -->
 
-### Download Schedule PDF
-[Workshop Schedule](https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-eaton.pdf)  
+### Download Agenda PDF
+[Workshop Agenda](https://xiwang-eaton.github.io/DCworkshop.github.io/assets/agenda-eaton.pdf)  
