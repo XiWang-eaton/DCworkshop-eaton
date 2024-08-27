@@ -11,11 +11,16 @@ During the workshop, we will delve into how DC distribution fits into EV fleets,
 
 ### Day 1: Understanding the Market
 
-On Day 1, we will work alongside potential customers and collaborators to gain insights into current research, market trends, and barriers to expansion. This non-confidential day will feature multiple experts and guest speakers, fostering improved relationships with industry collaborators and potential partners. We will also acknowledge the importance of DOE, DOD, and the national labs.
+On Day 1, we will work alongside customers and collaborators to gain insights into current research, market trends, and barriers to high-power DC systems. This non-confidential day will feature multiple panels with experts and guest speakers, fostering improved relationships with industry collaborators and partners. We will also acknowledge the importance of DOE, DOD, and the national labs.
 
 ### Day 2: Defining Opportunity Spaces
 
-Day 2 will start with a tour to the NREL Flatiron campus, followed by discussions focusing on defining the opportunity spaces for DC distribution and DC protection devices, such as solid-state and hybrid circuit breakers and contactors. We will explore the potential costs and benefits, answer the question "Why Eaton," and identify areas of alignment. By the end of the day, we aim to have a clear target space for increased research and product development efforts.
+Day 2 will be an Eaton Only event. We will start with a tour to the NREL Flatiron campus followed by discussions focusing on defining the opportunity spaces for DC distribution and DC protection devices. We will identify DC distribution architectures and solid-state and hybrid circuit breakers and contactors requirements. We will explore the potential costs and benefits, answer the question “Why Eaton,”. 
+
+### Day 3: Summary and demos of Eaton projects in NREL campus
+
+Day 3 we will tour the Eaton ERL lab space inside NREL and witness demonstrations of related projects. We will continue the Day-2 discussions. We will identify areas of alignment across Eaton. By the end of the day, we aim to have a clear target space for increased research and product development efforts.
+
 <br>
 
 <object data="https://xiwang-eaton.github.io/DCworkshop-eaton.github.io/assets/agenda-eaton.pdf" type="application/pdf" width="100%" height="600px">
