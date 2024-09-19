@@ -7,7 +7,7 @@ nav: Speakers
 
 {% include figure.html img="adel.jpg" alt="headshot" width="50%" %}
 
-<p style="text-align: center;">**Adel Nasiri, Ph.D., Fellow IEEE**, is an expert in high power electronic development, grid resiliency, renewable energy, and energy storage. He has over 25 years of experience in academia and industry.  <br>
+<p style="text-align: center;"> <b>Adel Nasiri, Ph.D., Fellow IEEE</b>, is an expert in high power electronic development, grid resiliency, renewable energy, and energy storage. He has over 25 years of experience in academia and industry.  <br>
 <br>
 He is presently a Thomas Gregory Endowed Professor in the Electrical Engineering Department at the University of South Carolina. His research interests are high power converters, grid resiliency, energy storage, and microgrids. Previously, he worked at the University of Wisconsin-Milwaukee (UWM) from 2005 to 2021 and served in various roles including founding and Interim Executive Director, Connected Systems Institute (CSI) and Director, Center for Sustainable Electrical Energy, and the site director for the NSF center on Grid-connected Advanced Power Electronic Systems (GRAPES). He has published numerous technical journal and conference papers and co-authored two books and several book chapters on related topics. He also holds nine patent disclosures.  <br>
 <br>
