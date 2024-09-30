@@ -23,8 +23,8 @@ Day 3 we will tour the Eaton ERL lab space inside NREL and witness demonstration
 
 <br>
 
-<object data="https://xiwang-eaton.github.io/DCworkshop-eaton.github.io/assets/agenda-noneaton.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Your browser does not support PDFs. <a href="https://xiwang-eaton.github.io/DCworkshop-eaton.github.io/assets/agenda-noneaton.pdf">Download the PDF</a>.</p>
+<object data="https://xiwang-eaton.github.io/DCworkshop-eaton.github.io/assets/agenda-eaton.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Your browser does not support PDFs. <a href="https://xiwang-eaton.github.io/DCworkshop-eaton.github.io/assets/agenda-eaton.pdf">Download the PDF</a>.</p>
 </object>
 
 <!-- <object data="https://xiwang-eaton.github.io/DCworkshop.github.io/assets/day1panel.pdf" type="application/pdf" width="100%" height="600px">
@@ -35,5 +35,5 @@ Day 3 we will tour the Eaton ERL lab space inside NREL and witness demonstration
 <br> -->
 
 ### Download Agenda PDF
-[Workshop Agenda](https://xiwang-eaton.github.io/DCworkshop-eaton.github.io/assets/agenda-noneaton.pdf)  
+[Workshop Agenda](https://xiwang-eaton.github.io/DCworkshop-eaton.github.io/assets/agenda-eaton.pdf)  
 
